@@ -1,0 +1,13 @@
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.exe
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.deps.json
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.runtimeconfig.json
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.runtimeconfig.dev.json
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.dll
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.pdb
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.csprojAssemblyReference.cache
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.AssemblyInfoInputs.cache
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.AssemblyInfo.cs
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.dll
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.pdb
+G:\Проекты\Практическая работа\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\PracticalWorkFileIOLesson.genruntimeconfig.cache

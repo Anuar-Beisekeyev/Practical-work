@@ -1,0 +1,13 @@
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\bin\Debug\netcoreapp3.1\PracticalWorkModulOne.exe
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\bin\Debug\netcoreapp3.1\PracticalWorkModulOne.deps.json
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\bin\Debug\netcoreapp3.1\PracticalWorkModulOne.runtimeconfig.json
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\bin\Debug\netcoreapp3.1\PracticalWorkModulOne.runtimeconfig.dev.json
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\bin\Debug\netcoreapp3.1\PracticalWorkModulOne.dll
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\bin\Debug\netcoreapp3.1\PracticalWorkModulOne.pdb
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\obj\Debug\netcoreapp3.1\PracticalWorkModulOne.csprojAssemblyReference.cache
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\obj\Debug\netcoreapp3.1\PracticalWorkModulOne.AssemblyInfoInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\obj\Debug\netcoreapp3.1\PracticalWorkModulOne.AssemblyInfo.cs
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\obj\Debug\netcoreapp3.1\PracticalWorkModulOne.csproj.CoreCompileInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\obj\Debug\netcoreapp3.1\PracticalWorkModulOne.dll
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\obj\Debug\netcoreapp3.1\PracticalWorkModulOne.pdb
+G:\Проекты\Практическая работа\PracticalWorkModulOne\PracticalWorkModulOne\obj\Debug\netcoreapp3.1\PracticalWorkModulOne.genruntimeconfig.cache

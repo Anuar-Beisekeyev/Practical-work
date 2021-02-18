@@ -1,0 +1,12 @@
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\bin\Debug\netcoreapp3.1\PartFour.exe
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\bin\Debug\netcoreapp3.1\PartFour.deps.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\bin\Debug\netcoreapp3.1\PartFour.runtimeconfig.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\bin\Debug\netcoreapp3.1\PartFour.runtimeconfig.dev.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\bin\Debug\netcoreapp3.1\PartFour.dll
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\bin\Debug\netcoreapp3.1\PartFour.pdb
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\obj\Debug\netcoreapp3.1\PartFour.AssemblyInfoInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\obj\Debug\netcoreapp3.1\PartFour.AssemblyInfo.cs
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\obj\Debug\netcoreapp3.1\PartFour.csproj.CoreCompileInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\obj\Debug\netcoreapp3.1\PartFour.dll
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\obj\Debug\netcoreapp3.1\PartFour.pdb
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFour\obj\Debug\netcoreapp3.1\PartFour.genruntimeconfig.cache

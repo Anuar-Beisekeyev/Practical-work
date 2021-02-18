@@ -1,0 +1,13 @@
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\bin\Debug\netcoreapp3.1\PartFive.exe
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\bin\Debug\netcoreapp3.1\PartFive.deps.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\bin\Debug\netcoreapp3.1\PartFive.runtimeconfig.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\bin\Debug\netcoreapp3.1\PartFive.runtimeconfig.dev.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\bin\Debug\netcoreapp3.1\PartFive.dll
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\bin\Debug\netcoreapp3.1\PartFive.pdb
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\obj\Debug\netcoreapp3.1\PartFive.csprojAssemblyReference.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\obj\Debug\netcoreapp3.1\PartFive.AssemblyInfoInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\obj\Debug\netcoreapp3.1\PartFive.AssemblyInfo.cs
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\obj\Debug\netcoreapp3.1\PartFive.csproj.CoreCompileInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\obj\Debug\netcoreapp3.1\PartFive.dll
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\obj\Debug\netcoreapp3.1\PartFive.pdb
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartFive\obj\Debug\netcoreapp3.1\PartFive.genruntimeconfig.cache

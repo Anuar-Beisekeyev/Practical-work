@@ -1,0 +1,13 @@
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\bin\Debug\netcoreapp3.1\PartThree.exe
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\bin\Debug\netcoreapp3.1\PartThree.deps.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\bin\Debug\netcoreapp3.1\PartThree.runtimeconfig.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\bin\Debug\netcoreapp3.1\PartThree.runtimeconfig.dev.json
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\bin\Debug\netcoreapp3.1\PartThree.dll
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\bin\Debug\netcoreapp3.1\PartThree.pdb
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\obj\Debug\netcoreapp3.1\PartThree.csprojAssemblyReference.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\obj\Debug\netcoreapp3.1\PartThree.AssemblyInfoInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\obj\Debug\netcoreapp3.1\PartThree.AssemblyInfo.cs
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\obj\Debug\netcoreapp3.1\PartThree.csproj.CoreCompileInputs.cache
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\obj\Debug\netcoreapp3.1\PartThree.dll
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\obj\Debug\netcoreapp3.1\PartThree.pdb
+G:\Проекты\Практическая работа\PracticalWorkArrayAndStringLesson\PartThree\obj\Debug\netcoreapp3.1\PartThree.genruntimeconfig.cache
